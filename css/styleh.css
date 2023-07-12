@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1200px) {
+    .home-content {
+        margin: 5% 0;
+    }
+}
+
+@media only screen and (max-width: 1320px) {
+    .page-container {
+        max-width: 94%;
+    }
+}
